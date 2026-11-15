@@ -1,0 +1,5 @@
+O ClassMate de demonstração usa três técnicas de estudo. O resumo reúne as ideias centrais de um texto em poucas frases. Um quiz apresenta perguntas para verificar a compreensão do conteúdo. Flashcards colocam uma pergunta na frente e uma resposta curta no verso para revisão.
+
+O documento também descreve o fluxo de RAG: o texto é dividido em trechos, os trechos recebem embeddings e uma busca encontra passagens relevantes para a pergunta. A resposta deve usar as passagens recuperadas e indicar a fonte.
+
+Este material não contém receitas culinárias, datas de eventos nem informações sobre medicina.
